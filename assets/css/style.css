@@ -84,7 +84,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
   }
 
   .app__rating-number {
